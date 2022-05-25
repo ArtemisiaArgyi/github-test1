@@ -9,5 +9,6 @@ public class GithubTest {
         System.out.println("合并冲突....");
         System.out.println("合并冲突测试....");
         System.out.println("master.......");
+        System.out.println("master test");
     }
 }
