@@ -7,5 +7,6 @@ public class GithubTest {
         System.out.println("Hello,World3!");
         System.out.println("--------------Hello,World4!-----------------");
         System.out.println("合并冲突....");
+        System.out.println("合并冲突测试....");
     }
 }
